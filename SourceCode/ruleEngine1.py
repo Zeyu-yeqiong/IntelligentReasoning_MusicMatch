@@ -114,10 +114,11 @@ dict_music = {'passion_light':Array[0],'passion_high':Array[1], 'quiet_light':Ar
 # print(find_music_type(dicts[nums2[0]]))
 
 def read_txt(filename):
-    with open(filename, 'r') as f:
+    
+    with open('chromosome.txt', 'r') as f:
         for line in f:
-            for i in range(len(line)):
-                change_array.append(int(line[i]))
+            line = line.strip('\n')
+            change_array.append(int(line))
     f.close()
     dict_change = {'passion_high': change_array[0], 'passion_light': change_array[1], 'excited_high': change_array[2],
                        'excited_light': change_array[3],
