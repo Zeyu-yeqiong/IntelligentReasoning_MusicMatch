@@ -32,7 +32,7 @@ In the future, in addition to the content of the video itself, we may combine us
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Music Match](http://img.youtube.com/vi/-G1jjOX8VDzQ/0.jpg)](https://www.youtube.com/watch?v=G1jjOX8VDzQ "Sudoku AI Solver")
+[![Music Match](Miscellaneous/title_image.png)](https://www.youtube.com/watch?v=G1jjOX8VDzQ "Sudoku AI Solver")
 
 
 ---
