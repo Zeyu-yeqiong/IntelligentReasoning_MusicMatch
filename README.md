@@ -107,12 +107,12 @@ Put it in to project code root directory.
 - Crossover and Mutation 
 - GA Training 
 - FE-BE Design 
-- APPENDICES 1:Project proposal . . . . . . . . . . . . . . . . . 17
-- APPENDICES 2:Survey For Expert Knowledge . . . . . . . . . . 18
-- APPENDICES 3:Installation . . . . . . . . . . . . . . . . . . . . 19
-- APPENDICES 4: User Guide . . . . . . . . . . . . . . . . . . . 19
-- APPENDICES 5:Mapped System Functionalities . . . . . . . . . 21
-- APPENDICES 6:JIANG HAO Personal report . . . . . . . . . . . 22
-- APPENDICES 7:MA ZEYU Personal report . . . . . . . . . . . . 24
-- APPENDICES 8:ZHANG JIUYUN Personal Report . . . . . . . 26
+- APPENDICES 1:Project proposal
+- APPENDICES 2:Survey For Expert Knowledge
+- APPENDICES 3:Installation
+- APPENDICES 4: User Guide
+- APPENDICES 5:Mapped System Functionalities 
+- APPENDICES 6:JIANG HAO Personal report
+- APPENDICES 7:MA ZEYU Personal report 
+- APPENDICES 8:ZHANG JIUYUN Personal Report
 
