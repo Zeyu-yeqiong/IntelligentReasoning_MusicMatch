@@ -56,7 +56,7 @@ Please, install the following packages
 ### Model Checkpoint
 
 Download Coco_checkpoint from https://drive.google.com/file/d/1RPL93AtXB6tME5VIDLBXt-vF5herO5e-/view?usp=sharing ,
-Put it in to project root directory. 
+Put it in to project code root directory. 
 
 ### Guide
 - run run.py in root directory.
