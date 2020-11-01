@@ -1,5 +1,5 @@
 ## SECTION 1 : PROJECT TITLE
-## Singapore Housing & Deveoplment Board - BTO Recommender System
+## Video-Music Match System
 <img src="Miscellaneous/title_image.png"
      style="float: left; margin-right: 0px;" />
 
