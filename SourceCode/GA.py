@@ -126,8 +126,9 @@ def write_to_txt(filename, population):
     with open(filename, 'w') as f:
         res = population[0]
         for i in res:
-            f.write(str(i))
+            f.write(str(i)+ '\n')
     f.close()
+
     
 #train GA using videos
 def train():
