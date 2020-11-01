@@ -26,7 +26,7 @@ In the future, in addition to the content of the video itself, we may combine us
 | :------------ |:---------------:| :-----| :-----|
 | Zeyu Ma | A0186896B | FEdesign, BEdesign, Model building dicsussion| E0321134@nus.edu.sg |
 | Zhang Jiuyun | A0215513R | GA design<br>Rule engine<br>Frame extraction| E0535603@u.nus.edu |
-| Jiang Hao | A0215300A |Multi-label classificaiton model<br>Rule Engine| haojiang@u.nus.edu |
+| Jiang Hao | A0215300A |Multi-label classificaiton model<br>Rule Engine<br>Frame extraction| haojiang@u.nus.edu |
 
 ---
 
