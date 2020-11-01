@@ -115,7 +115,7 @@ dict_music = {'passion_light':Array[0],'passion_high':Array[1], 'quiet_light':Ar
 
 def read_txt(filename):
     
-    with open('chromosome.txt', 'r') as f:
+    with open(filename, 'r') as f:
         for line in f:
             line = line.strip('\n')
             change_array.append(int(line))
