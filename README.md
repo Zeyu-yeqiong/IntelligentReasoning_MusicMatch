@@ -24,9 +24,9 @@ In the future, in addition to the content of the video itself, we may combine us
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| Zeyu Ma | A0186896B | FEdesign ， BEdesign ，Model building dicsussion| E0321134@nus.edu.sg |
+| Zeyu Ma | A0186896B | FEdesign, BEdesign, Model building dicsussion| E0321134@nus.edu.sg |
 | Zhang Jiuyun | A0215513R | GA design<br>Rule engine<br>Frame extraction| E0535603@u.nus.edu |
-| Chee Jia Wei | A1234567C | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A1234567C@outlook.com |
+| Chee Jia Wei | A1234567C |Multi-label classificaiton model, Rule Engine| A1234567C@outlook.com |
 
 ---
 
